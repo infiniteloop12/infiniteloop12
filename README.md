@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @infiniteloop12
+- 👋 Hi, I’m Tyler Carroll
 - 👀 I’m interested in switching careers to become a backend developer
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on fun projects
